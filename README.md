@@ -1,9 +1,13 @@
 # Quiz Application
 
 **Course:** Programming Fundamentals and Logic Building Using Python (RU-100-01-0021)
+
 **Name:** Shreyansh Kumar Singh
+
 **ERP No.:** RU-26-01965
+
 **Section:** O
+
 **PS No.:** 88
 
 ---
